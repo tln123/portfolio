@@ -10,7 +10,7 @@ $(window).on('load', function () { // makes sure that whole site is loaded
                 Particles
 ============================================ */
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load("particles-js", "/portfolio/js/particles/particles.json", function() {
+particlesJS.load("particles-js", "/js/particles/particles.json", function() {
     console.log("callback - particles.js config loaded");
   });
 

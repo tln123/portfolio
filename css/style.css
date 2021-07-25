@@ -833,7 +833,7 @@ img:nth-child(5) {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   flex-direction: column;
-  background-image: url("../img/projects/project-card-1.jpg");
+  background-image: url("../img/projects/ztmproject.jpg");
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
   box-shadow: 0 0 10px 1px #fff;
@@ -841,11 +841,11 @@ img:nth-child(5) {
 }
 
 .project-card-2 {
-  background-image: url("../img/projects/ztmproject.jpg");
+  background-image: url("../img/projects/order_managment.jpg");
 }
 
 .project-card-3 {
-  background-image: url("../img/projects/project-card-3.jpg");
+  background-image: url("../img/projects/game_in.jpg");
 }
 
 .project-overlay {
